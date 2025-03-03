@@ -17,7 +17,7 @@
     "express": "^4.21.2",
     "node": "^23.9.0",
     "nodemon": "^3.1.9",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^3.0.1",
     "server.js": "^1.0.0"
   }
 }
